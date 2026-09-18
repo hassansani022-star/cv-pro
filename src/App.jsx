@@ -126,7 +126,7 @@ function Hero() {
             L'intégration technique est le
           </span>
           <span className="hero-anim text-background font-serif italic text-6xl md:text-8xl lg:text-9xl leading-none">
-            moteur absolu.
+            clé de la réussite.
           </span>
         </h1>
         <p className="hero-anim mt-6 text-background/80 font-sans text-lg md:text-xl max-w-xl text-balance">
